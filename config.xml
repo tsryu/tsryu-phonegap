@@ -2,7 +2,7 @@
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>tsryu</name>
     <description>
-        Tae-seok Ryu, Front-end developer Portfolio
+        Tae-seok Ryu, Front-end Developer Portfolio
     </description>
     <author email="yuteta@gmail.com" href="mailto:yuteta@gmail.com">
         Tae-seok Ryu
