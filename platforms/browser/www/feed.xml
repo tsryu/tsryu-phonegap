@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tsryu</title>
+    <description>류태석 프론트엔드 개발자 포트폴리오 웹사이트</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 09 Jul 2016 12:14:53 +0900</pubDate>
+    <lastBuildDate>Sat, 09 Jul 2016 12:14:53 +0900</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>추천! 웹디자인 스타일 가이드 7가지</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/blog/150902/0.png&quot; alt=&quot;추천! 웹디자인 스타일 가이드 7가지&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;스타일 가이드의 개념은  ‘패턴 라이브러리’, ‘UI 툴킷’, ‘UI 가이드라인’ 등등 소통하는 방식은 각양각색입니다. 어떤 단어로 소통하는 것은 중요하지 않습니다. 하지만 그 의미는 우리가 통일할 필요가 있는데요.&lt;/p&gt;
+
+&lt;p&gt;스타일 가이드는 웹사이트를 만드는 이들을 위한 설명서와 재료라고 할 수 있습니다. 이들은 개발자가 될 수 있으며, 디자이너, 콘텐츠 제작자, 혹은 협력업체의 사람일 수도 있습니다. &lt;/p&gt;
+
+&lt;p&gt;스타일 가이드의 의미를 알아봤는데요. 이제는 비교적 잘 만들어진 7가지 스타일 가이드를 소개합니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;airbnb&quot;&gt;1. 에어비엔비(AIRBNB)&lt;/h1&gt;
+&lt;p&gt;에어비엔비의 UI 툴킷은 폼의 입력필드, 메뉴, 광고와 툴바 등의 가이드를 가지고 있습니다. 특히 흥미로운 것은 그들만의 컬러 테마를 만들어서 보여줬다는 점이죠.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/blog/150902/1.png&quot; alt=&quot;추천! 웹디자인 스타일 가이드 7가지&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;웹디자인은 뎁스와 대비 등 다양한 위계를 포함하고 있습니다. 여러분이 브랜드컬러를 3~4개 정도 제한하고 싶을 수도 있지만, 작업자들 입장에서는 그 다양한 위계를 가공하는 데는 한계가 있을수도 있습니다. 작업자들을 배려해서 다른 색상테마를 추가해보세요.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;mozilla-foundation&quot;&gt;2. 모질라재단(MOZILLA FOUNDATION)&lt;/h1&gt;
+&lt;p&gt;모질라재단은 파이어폭스를 만든 비영리단체입니다. 모질라재단은 그들의 온라인콘텐츠 스타일을 통일하기 위해 ‘샌드스톤(Sandstone)’을 만들었습니다. 샌드스톤은 스타일과 폼, 작은 버튼부터 전체 그리드까지 모두 이해하기 쉽게 만들었습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/blog/150902/2.png&quot; alt=&quot;추천! 웹디자인 스타일 가이드 7가지&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;모질라재단의 디자인 통합 컨셉은 모든 것을 똑같이 만드는 것을 의미하지 않는데요. 그들의 스타일 가이드는 각각 다른 환경에서 적용되었을 때 적절한 예시를 가지고 있습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/blog/150902/3.png&quot; alt=&quot;추천! 웹디자인 스타일 가이드 7가지&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;여러분의 웹 스타일 가이드가 매우 중요한 컨셉을 가지고 있다면, ‘샌드스톤’같은 방식은 일관성을 지키는데 큰 도움이 될 것입니다. 나중에 어떤 가이드를 더 포함할지라도, 지향점이 기준이 되기 때문입니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;disqus&quot;&gt;3. 디스커스(DISQUS)&lt;/h1&gt;
+&lt;p&gt;댓글 시스템으로 유명한 디스커스는 스타일 가이드를 ‘브랜드와 스타일’과 ‘구성요소’로 나눴습니다. 웹디자인에서는 인하우스 디자이너와 그들의 API를 쓰는 사용자들을 위한 스타일 가이드를 만들었습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/blog/150902/4.png&quot; alt=&quot;추천! 웹디자인 스타일 가이드 7가지&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;때때로 여러분은 디스커스처럼 하나의 작은 구성요소만 디자인해서, 수 많은 사람들이 사용해야 되는 경우도 있습니다. 여러분이 이런 경우라면 공개는 물론이고, 잘 보이는 곳에 배치해야 합니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;uber&quot;&gt;4. 우버(UBER)&lt;/h1&gt;
+&lt;p&gt;우버의 스타일 가이드는 타이포그래피와 위계에 중점을 뒀습니다. 디자인에 따라 타이포 획의 굵기를 어떻게 적용할지 그들만의 방식을 만들었습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/blog/150902/5.png&quot; alt=&quot;추천! 웹디자인 스타일 가이드 7가지&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;더욱 매력적인 것은 그들의 브랜드 아이덴티티를 지도와 같은 UI에도 적용했다는 점입니다.  차량 예약 서비스라서 지도가 중요한 역할을 하기 때문에 더욱 신경 썼을 것입니다. &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/blog/150902/6.png&quot; alt=&quot;추천! 웹디자인 스타일 가이드 7가지&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;우버는 지도의 출발지, 목적지의 선까지도 아이덴티티를 부여했습니다. 여러분의 브랜드가 특정분야에 관련된 서비스라면, 그 분야에서 중요한 UI 요소에 아이덴티티를 어떻게 녹여낼 것인지 고민해봐야합니다. &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;mailchimp&quot;&gt;5. 메일침프(MAILCHIMP)&lt;/h1&gt;
+&lt;p&gt;요즘은 웹 서비스들이 더욱 복잡해지면서, 스타일 가이드에 고려할 점도 그만큼 많아졌습니다. 예를 들어 메일침프는 3가지 다른 스타일의 그래프를 제공합니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/blog/150902/7.png&quot; alt=&quot;추천! 웹디자인 스타일 가이드 7가지&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;또한 그들은 메일침프만의 아이콘 ‘프레디콘’을 만들었습니다. 이렇게 브랜드만의 아이콘을 만드는 것은 시간이 오래 걸릴수도 있지만, 브랜드 성격에 특화될 수 있다고 생각합니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/blog/150902/8.png&quot; alt=&quot;추천! 웹디자인 스타일 가이드 7가지&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;evernote&quot;&gt;6. 에버노트(EVERNOTE)&lt;/h1&gt;
+&lt;p&gt;에버노트팀은 드리블(Dribbble)에 디자인결과물을 올렸습니다. 에버노트의 아이콘, 일러스트레이션, 뱃지, 레이아웃 등 많은 것을 공유하고 있는데요.  &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/blog/150902/7.png&quot; alt=&quot;추천! 웹디자인 스타일 가이드 7가지&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;내부에 스타일 가이드를 만드는 방식과 다르게, 사용자들에게 오픈해서 피드백을 직접 받고 반영하고 있습니다. 여러분도 디자인 결과물을 커뮤니티에 공유해보세요. 수 많은 사용자들의 피드백에 많은 도움을 받을 수 있을 거에요.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;virgin-america&quot;&gt;7. 버진 아메리카(VIRGIN AMERICA)&lt;/h1&gt;
+&lt;p&gt;버진 아메리카 항공사의 최근 웹사이트 개편은 항공 예약 시스템에 혁신을 가져왔다고 회자되고 있는데요. 작업을 진행한 에이전시 워크앤코(Work &amp;amp; Co)는 케이스 스터디를 직접 웹사이트에 공유했습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/blog/150902/8.png&quot; alt=&quot;추천! 웹디자인 스타일 가이드 7가지&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;물론 디자인 스타일 가이드도 작업도 중요하지만, 왜 이런 결과물이 나왔는지 스토리텔링이 가미가 된다면 더욱 좋을 것 같네요.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/blog/150902/9.png&quot; alt=&quot;추천! 웹디자인 스타일 가이드 7가지&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;이 7가지 사이트 외에도 훌륭한 스타일 가이드는 많습니다.&lt;br /&gt;
+&lt;a href=&quot;http://findguidelin.es&quot; target=&quot;_blank&quot;&gt;findguidelin.es&lt;/a&gt;를 보시면서 벤치마킹 스타일 가이드를 많이 찾아보세요.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;section&quot;&gt;*스타일 가이드 툴&lt;/h1&gt;
+
+&lt;p&gt;스타일 가이드 제작을 어렵게 생각하지 마세요. 이미 스타일 가이드를 만드는 좋은 도구들이 나와있습니다. 그 중에 몇 가지 소개합니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://stylifyme.com/&quot; target=&quot;_blank&quot;&gt;Stylify&lt;/a&gt;, &lt;a href=&quot;https://www.getbynder.com/en/&quot; target=&quot;_blank&quot;&gt;Bynder&lt;/a&gt;, &lt;a href=&quot;http://patternlab.io/&quot; target=&quot;_blank&quot;&gt;Patternlab&lt;/a&gt;, &lt;a href=&quot;http://fbrctr.github.io/&quot; target=&quot;_blank&quot;&gt;Fabricator&lt;/a&gt;, &lt;a href=&quot;https://frontify.com/styleguide&quot; target=&quot;_blank&quot;&gt;Frotify&lt;/a&gt;, &lt;a href=&quot;http://bjankord.github.io/Style-Guide-Boilerplate/&quot; target=&quot;_blank&quot;&gt;Style Guide Boilerplate&lt;/a&gt;, &lt;a href=&quot;http://hugeinc.github.io/styleguide/index.html&quot; target=&quot;_blank&quot;&gt;HugeInc Styleguide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;출처: &lt;a href=&quot;https://designschool.canva.com/blog/apple-google-starbucks-inside-the-web-design-style-guides-of-10-famous-companies/&quot; target=&quot;_blank&quot;&gt;Canva&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;이 글은 제가(원숭이발자국) 슬로워크에서 쓴 글입니다.&lt;br /&gt;&lt;a href=&quot;http://slowalk.com/2225&quot; target=&quot;_blank&quot;&gt;원문보기&lt;/a&gt; / &lt;a href=&quot;http://ppss.kr/archives/64833&quot; target=&quot;_blank&quot;&gt;ㅍㅍㅅㅅ&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Wed, 02 Sep 2015 00:00:00 +0900</pubDate>
+        <link>/blog/web-design-style-guide/</link>
+        <guid isPermaLink="true">/blog/web-design-style-guide/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>웹디자인에서 자간, 행간에 대한 고찰</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/blog/150721/0.png&quot; alt=&quot;웹디자인에서 자간, 행간에 대한 고찰&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;디자이너와 개발자는 너무 다릅니다. 여러 가지 이유가 있겠지만, 작업 방식부터 다르기 때문이라고 생각합니다. 실제로 웹 개발실에서 일하면서도 많이 경험할 수 있었는데요. 그중 가장 문제가 많이 생기는 부분이 폰트라고 생각합니다.&lt;/p&gt;
+
+&lt;p&gt;서체의 경우, OS, 브라우저의 렌더링 스타일이나 유료폰트 구매 문제로 귀결됩니다. 하지만 자간과 행간은 맞출 수 있음에도, 디자이너분들과 소통하지 못했습니다. 저는 디자인을 전공했지만, 디자인을 정확하게 구현하고 싶은 마음에 개발을 시작했습니다. 하지만 초심과 다르게, 효율을 중시한 나머지 자간과 행간을 간과하는 경우가 많았습니다.&lt;/p&gt;
+
+&lt;p&gt;이 부분이 문제 제기되어 방법을 모색하게 되었는데요. 그 내용을 공유합니다.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/150721/1.gif&quot; alt=&quot;웹디자인에서 자간, 행간에 대한 고찰&quot; /&gt;
+&amp;lt;div class=&quot;img-caption&quot;&amp;gt;여담이지만 디자인과 출신인 저도 자간, 행간에 대한 감각이 형편 없습니다.&amp;lt;/div&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;자간과 행간의 기준은 디자이너들 사이에서도 많은 차이가 납니다. 모바일에서 잘 안 보인다고 만지지 않는 분이 있지만, 편집디자인처럼 세세하게 다 보시는 분도 있습니다.&lt;/p&gt;
+
+&lt;p&gt;다양한 디자인 의도를 정확하게 표현하기 위해, 가이드를 넘어 포토샵에 대한 이해가 필요합니다.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;section&quot;&gt;자간&lt;/h1&gt;
+&lt;p&gt;포토샵에 자간을 작업하는 방식은 다음과 같습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/150721/2.png&quot; alt=&quot;웹디자인에서 자간, 행간에 대한 고찰&quot; /&gt;
+&amp;lt;div class=&quot;img-caption&quot;&amp;gt;단위가.. 없네요&amp;lt;/div&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;퍼블리싱 작업을 할 때 저 알 수 없는 단위를 어떻게 환산해야 할지 고뇌한 적이 많습니다. 솔직하게 말씀드리면 자간이 좁다고 생각되면 -1px로 처리했던 적이 많습니다. (디자이너분들에게 죄송합니다…) &lt;/p&gt;
+
+&lt;p&gt;저 단위 없는 자간의 정체는 무엇일까요? 어도비 공식사이트에는 다음과 같이 명세 되어 있는데요.&lt;/p&gt;
+
+&lt;p&gt;자간과 커닝은 모두 현재 문자 크기에 상대적인 측정 단위인 1/1000em으로 측정됩니다. 6포인트 글꼴에서 1em은 6포인트에 해당하고, 10포인트 글꼴에서 1em은 10포인트에 해당합니다. 커닝 및 자간은 현재 문자 크기에 정확하게 비례합니다.&lt;/p&gt;
+
+&lt;p&gt;쉽게 말씀드리면, &lt;code&gt;포토샵의 1000이 CSS의 1em(현재 폰트크기)과 일치합니다.&lt;/code&gt; (&lt;a href=&quot;http://justinmarsan.com/css-letter-spacing-in-photoshop-and-browsers/&quot; target=&quot;_blank&quot;&gt;링크&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/150721/3.png&quot; alt=&quot;웹디자인에서 자간, 행간에 대한 고찰&quot; /&gt;
+&amp;lt;div class=&quot;img-caption&quot;&amp;gt;파이어폭스에서 구현된 자간. 거의 일치합니다.&amp;lt;/div&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;가장 정확하게 렌더링하는 파이어폭스 기준으로 거의 일치하는데요.이제는 픽셀로 어설프게 맞추지 않아도 되겠네요. 
+(*IE9 이하 등 구형브라우저에서는 소수점을 정수화 처리하기 때문에 정확하게 작동하지 않을 수도 있습니다. 링크)&lt;/p&gt;
+
+&lt;h1 id=&quot;section-1&quot;&gt;행간&lt;/h1&gt;
+&lt;p&gt;포토샵에서 행간을 넣는 방법은 이렇습니다. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/150721/4.png&quot; alt=&quot;웹디자인에서 자간, 행간에 대한 고찰&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;자간과 비교하면 단위가 있어서 다행이네요. &lt;br /&gt;
+하지만 포토샵과 CSS의 line-height의 방식은 다릅니다.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/150721/5.png&quot; alt=&quot;웹디자인에서 자간, 행간에 대한 고찰&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;이처럼 포토샵은 글자의 가장 윗부분을 기준으로,
+css의 line-height는 글자의 수직중앙을 기준으로 작동합니다.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/150721/6.png&quot; alt=&quot;웹디자인에서 자간, 행간에 대한 고찰&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;결국, 이런 오차가 생길 수밖에 없는데요. 이 오차 때문에 가끔 글씨 위 아래로 애매한 여백이 생깁니다. 이 여백을 계산하는 공식((행간 - 폰트사이즈) / 2)을 사용하면 좀 더 정확하게 퍼블리싱 할 수 있습니다.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;행간과 자간을 디자이너의 의도와 비슷하게 맞추는 방법에 대해 알아봤습니다. 하지만 위와 같은 방법으로 해도, 아래의 예시와 같이 OS와 브라우저의 렌더링 방식에 따라 1~2px정도 오차가 있을 수 있습니다. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/150721/7.png&quot; alt=&quot;웹디자인에서 자간, 행간에 대한 고찰&quot; /&gt;
+&amp;lt;div class=&quot;img-caption&quot;&amp;gt;크롬에서 구현된 자간. 미세하게 오차가 있습니다.&amp;lt;/div&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;웹디자인에서 자간과 행간의 문제는 개발자의 실력도 원인이 될 수도 있겠지만, 디자이너들과의 의사소통으로 간단히 해결할 수 있다고 생각합니다. 이런 소통을 통해 모두가 만족할 수 있는 프로젝트를 진행할 수 있었으면 좋겠습니다.&lt;/p&gt;
+
+&lt;p&gt;출처: &lt;a href=&quot;http://justinmarsan.com/css-letter-spacing-in-photoshop-and-browsers/&quot; target=&quot;_blank&quot;&gt;Justin Marsan&lt;/a&gt;, &lt;a href=&quot;https://helpx.adobe.com/kr/photoshop/using/line-character-spacing.html&quot; target=&quot;_blank&quot;&gt;어도비 공식사이트&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;이 글은 제가(원숭이발자국) 슬로워크에서 쓴 글입니다.&lt;br /&gt;&lt;a href=&quot;http://slowalk.com/2194&quot; target=&quot;_blank&quot;&gt;원문보기&lt;/a&gt; / &lt;a href=&quot;http://ppss.kr/archives/55128&quot; target=&quot;_blank&quot;&gt;ㅍㅍㅅㅅ&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 21 Jul 2015 00:00:00 +0900</pubDate>
+        <link>/blog/letter-spacing-and-line-height/</link>
+        <guid isPermaLink="true">/blog/letter-spacing-and-line-height/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>효과적인 후원페이지 만들기</title>
+        <description>&lt;p&gt;우리는 웹사이트를 서핑하면서 수많은 서식(Form)을 사용합니다. 회원가입, 결제, 후원페이지 등 서식 페이지는 개인정보나 금액이 오고 가기 때문에 매우 중요합니다. 하지만 우리는 복잡한 서식페이지에 들어가면 작성을 포기하거나, 실수를 합니다.&lt;/p&gt;
+
+&lt;p&gt;이런 상황에는 사용자의 책임도 있지만, 제작자들의 책임이 더 크다고 생각합니다. 그럼 제작자 입장에서 사용자들이 편하게 사용할 수 있는 서식페이지 만들라면 어떻게 해야 할까요?&lt;/p&gt;
+
+&lt;p&gt;웹디자이너 브래드 프로스트(&lt;a href=&quot;http://bradfrost.com/&quot; target=&quot;_blank&quot;&gt;Brad Frost&lt;/a&gt;) 씨는 피츠버그푸드뱅크(&lt;a href=&quot;https://www.pittsburghfoodbank.org/&quot; target=&quot;_blank&quot;&gt;Pittsburgh Food Bank&lt;/a&gt;)의 후원페이지를 효과적으로 리디자인했는데요.&lt;/p&gt;
+
+&lt;p&gt;그는 다음 10가지 사항을 고려해서 디자인했습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/141112/0.png&quot; alt=&quot;효과적인 후원페이지 만들기&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;눈에 잘 띄는 곳에 배치하기&lt;/li&gt;
+    &lt;li&gt;불필요한 요소 제거하기&lt;/li&gt;
+    &lt;li&gt;내용이 많은 페이지는 단계로 나눠서 구성하기&lt;/li&gt;
+    &lt;li&gt;입력서식을 버튼화하기&lt;/li&gt;
+    &lt;li&gt;예시와 가이드를 제공하기&lt;/li&gt;
+    &lt;li&gt;뚜렷하게 강조하기&lt;/li&gt;
+    &lt;li&gt;유효성 검사 바로 하기&lt;/li&gt;
+    &lt;li&gt;입력서식의 개 수 줄이기&lt;/li&gt;
+    &lt;li&gt;서식에 맞는 종류(type) 정하기&lt;/li&gt;
+    &lt;li&gt;도시정보를 자동으로 입력하기&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;section&quot;&gt;1. 눈에 잘 띄는 곳에 배치하기&lt;/h1&gt;
+&lt;p&gt;그는 모든 페이지 하단에 후원양식을 제공했습니다. 자칫 과하다고 생각할 수 있지만, 후원양식이 차지하는 공간이 작기 때문에 그런 느낌은 없습니다. (&lt;a href=&quot;http://foodbank.bradfrostweb.com/patternlab/v9/patterns/04-pages-00-home-00-homepage/04-pages-00-home-00-homepage.html&quot; target=&quot;_blank&quot;&gt;웹사이트 보기&lt;/a&gt;)
+&lt;br /&gt;&lt;br /&gt;
+#2. 불필요한 요소 제거하기
+사용자들이 서식에 집중할 수 있는 여건을 만들었습니다. 그는 사이드바와 같은 보조적인 기능들은 잠시 제거했습니다.
+&lt;br /&gt;&lt;br /&gt;
+#3. 내용이 많은 페이지는 단계로 나눠서 구성하기
+서식을 좀 더 간단하게 하는 방법은 한 화면에 다 보여주기 보지 않고 단계를 나눠서 보여주는 것입니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/141112/1.png&quot; alt=&quot;효과적인 후원페이지 만들기&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;img-caption&quot;&gt;여러분은 어떤 서식을 쓰실 건가요?&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;section-1&quot;&gt;4. 입력서식을 버튼화하기&lt;/h1&gt;
+&lt;p&gt;버튼은 셀렉트박스, 체크박스 등 어떤 입력서식 보다 사용성이 좋으며, 눈길을 끕니다. 그는 후원금액을 사용자들이 더욱 쉽게 누를 수 있도록 버튼으로 디자인했습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/141112/2.png&quot; alt=&quot;효과적인 후원페이지 만들기&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;section-2&quot;&gt;5. 예시와 가이드를 제공하기&lt;/h1&gt;
+&lt;p&gt;많은 사람은 푸드뱅크의 후원양식이 어떻게 구성되어 있는지 모릅니다. 제작자들은 대표적인 예시와 가이드를 제공하여 사용자를 도와야 합니다. 예를 들어 &lt;a href=&quot;https://secure.actblue.com/contribute/page/lets-finish-what-we-started?refcode2=donationorgforaction2indexhtml&amp;amp;refcode=&quot; target=&quot;_blank&quot;&gt;오바마 대통령의 캠페인 사이트&lt;/a&gt;는 일반적인 기부금액을 정해서 버튼으로 제공합니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/141112/3.png&quot; alt=&quot;효과적인 후원페이지 만들기&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;section-3&quot;&gt;6. 뚜렷하게 강조하기&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/blog/141112/4.gif&quot; alt=&quot;효과적인 후원페이지 만들기&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;금액에 마우스를 올리면, 상단에 그 금액으로 얼마나 도움을 줄 수 있는지 설명이 나옵니다. 작은 기능이지만, 후원자들이 자신의 금액이 어떻게 쓰이는지 알 수 있기에 후원을 유도할 수 있습니다.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;section-4&quot;&gt;7. 유효성 검사 바로 하기&lt;/h1&gt;
+&lt;p&gt;수많은 입력서식을 모두 입력하고 유효성을 검사하는 것은 비효율적입니다. &lt;a href=&quot;http://parsleyjs.org/doc/examples/simple.html&quot; target=&quot;_blank&quot;&gt;파슬리(Parsley)&lt;/a&gt; 라이브러리를 사용해, 사용자가 입력한 직후에 유효성검사를 하면 더 효율적일 것입니다. 
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;section-5&quot;&gt;8. 서식의 개 수 줄이기&lt;/h1&gt;
+&lt;p&gt;이 리디자인의 중요한 목표는 최대한 입력서식을 줄이는 것이었습니다. 예를 들어 신용카드 서식을 다음 그림과 같이 한 칸으로 전부 해결할 수도 있습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/141112/5.gif&quot; alt=&quot;효과적인 후원페이지 만들기&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;type-&quot;&gt;9. 서식에 맞는 종류(type) 정하기&lt;/h1&gt;
+&lt;p&gt;html5에서 제공하는 서식 종류(type)을 잘 사용하면 데스크탑 뿐만 아니라 모바일에서 더 편한 사용성을 제공할 수 있습니다.
+아래 서식들을 눌러보세요. (아쉽게도 모든 브라우저를 지원하지는 않습니다.)&lt;/p&gt;
+
+&lt;blockquote&gt;
+	&lt;dl style=&quot;overflow:hidden;&quot;&gt;
+		&lt;dt class=&quot;pull-left&quot; style=&quot;margin-right:10px;&quot;&gt;시간을 선택하는 서식&lt;/dt&gt;
+		&lt;dd class=&quot;pull-left&quot; style=&quot;margin-bottom:0;&quot;&gt;&lt;input type=&quot;time&quot; name=&quot;usr_time&quot; /&gt;&lt;/dd&gt;
+	&lt;/dl&gt;
+	&lt;dl style=&quot;overflow:hidden;margin-top:10px;&quot;&gt;
+		&lt;dt class=&quot;pull-left&quot; style=&quot;margin-right:10px;&quot;&gt;숫자로 선택하는 서식&lt;/dt&gt;
+		&lt;dd class=&quot;pull-left&quot; style=&quot;margin-bottom:0;&quot;&gt;&lt;input type=&quot;number&quot; name=&quot;quantity&quot; min=&quot;1&quot; max=&quot;5&quot; /&gt;&lt;/dd&gt;
+	&lt;/dl&gt;
+	&lt;dl style=&quot;overflow:hidden;margin-top:10px;&quot;&gt;
+		&lt;dt class=&quot;pull-left&quot; style=&quot;margin-right:10px;&quot;&gt;달력으로 선택하는 서식&lt;/dt&gt;
+		&lt;dd class=&quot;pull-left&quot; style=&quot;margin-bottom:0;&quot;&gt;&lt;input type=&quot;date&quot; name=&quot;bday&quot; /&gt;&lt;/dd&gt;
+	&lt;/dl&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;section-6&quot;&gt;10. 도시정보를 자동으로 입력하기&lt;/h1&gt;
+&lt;p&gt;미국에서는 주소를 입력할 때 zip코드를 사용하는데, 이 zip코드를 입력하면 자동으로 나머지 주소가 생성하는 방법입니다. 우리나라는 우편번호로 적용할 수 있겠네요.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/141112/6.gif&quot; alt=&quot;효과적인 후원페이지 만들기&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;저는 서식 작성 중에 초기화되는 일도 있었고, 후원페이지에서 두 번 결제되는 참사도 겪었습니다. 이럴 때 훈훈한 마음과 기대는 결국 분노와 짜증으로 바뀌기도 합니다.
+위에서 언급한 내용은 어쩌면 우리 모두가 이미 알고 있는 것일지도 모릅니다. 단지 귀찮을 뿐이지요. 하지만 우리가 이런 사소한 배려와 함께 디자인한다면, 사용자들은 감동을 느끼고 감사하는 마음을 가질 것입니다.&lt;/p&gt;
+
+&lt;p&gt;출처: &lt;a href=&quot;http://bradfrost.com/&quot; target=&quot;_blank&quot;&gt;Brad Frost&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;이 글은 제가(원숭이발자국) 슬로워크에서 쓴 글입니다.&lt;br /&gt;&lt;a href=&quot;http://slowalk.com/2020&quot; target=&quot;_blank&quot;&gt;원문보기&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Wed, 12 Nov 2014 00:00:00 +0900</pubDate>
+        <link>/blog/desining-an-effective-donate-form/</link>
+        <guid isPermaLink="true">/blog/desining-an-effective-donate-form/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
