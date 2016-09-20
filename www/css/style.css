@@ -2092,7 +2092,7 @@ a:focus, a:hover { text-decoration: none; }
 .site-footer .container:before, .site-footer .container:after { content: " "; display: table; }
 .site-footer .container:after { clear: both; }
 
-.home .section01 { background: url("/images/bg.jpg") no-repeat center bottom; background-size: cover; }
+.home .section01 { background: url("../images/bg.jpg") no-repeat center bottom; background-size: cover; }
 .home .section01 .text-box { position: absolute; bottom: 30px; left: 30px; right: 30px; }
 @media (max-width: 767px) { .home .section01 .text-box { bottom: 15px; left: 20px; right: 20px; } }
 .home .section01 .text-box * { color: #fff; margin: 0; padding: 0; }
